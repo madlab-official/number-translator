@@ -1,10 +1,15 @@
-# Number Translator Package. Translate number to sonkha (Bangla).
+# Number Translator
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/md-harun-or-roshid/number-translator.svg?style=flat-square)](https://packagist.org/packages/md-harun-or-roshid/number-translator)
 [![Tests](https://img.shields.io/github/actions/workflow/status/md-harun-or-roshid/number-translator/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/md-harun-or-roshid/number-translator/actions/workflows/run-tests.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/md-harun-or-roshid/number-translator.svg?style=flat-square)](https://packagist.org/packages/md-harun-or-roshid/number-translator)
 
-This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.
+Number Translator Package. Translate number to sonkha (Bangla).
+
+## Support Language:
+1. English
+2. Bangla
+3. Hindi
 
 ## Support us
 
